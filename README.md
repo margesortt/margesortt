@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋, I'm Marge!
 
-<!--
-**margesortt/margesortt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏻‍🔬 Computer Scientist
+- 👩‍💻 Software Developer
+- 🛠️ I’m currently work with Flutter
 
-Here are some ideas to get you started:
+ ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div >
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=margesortt&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=FFF188&icon_color=FFF188&text_color=FFBF89&bg_color=484848&hide=contribs,prs"/>
+  <img height="180" src="https://media.discordapp.net/attachments/920317221316747296/989999643389730857/56120052_2147527578629442_4106874980002693120_n.png"/>
+</div>
+  
+  ##
+  
+
+
