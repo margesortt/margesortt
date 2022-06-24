@@ -13,6 +13,6 @@
   
   ##
   
-![Snake animation](https://github.com/margesortt/allineleal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/margesortt/margesortt/blob/output/github-contribution-grid-snake.svg)
 
 
