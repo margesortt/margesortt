@@ -13,6 +13,8 @@
   
   ##
   
+  
 ![Snake animation](https://github.com/margesortt/margesortt/blob/output/github-contribution-grid-snake.svg)
+  
 
 
